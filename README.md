@@ -1,3 +1,3 @@
 # DearList
 
-DeaList é um aplicativo que permite a criação de listas com uma maior organização, com funções que permitem separar por tags personalizadas pelo usuário.
+DearList é um aplicativo que permite a criação de listas de livros com uma maior organização, tendo funções que permitem separar por tags personalizadas e registrar o progresso de leitura.
