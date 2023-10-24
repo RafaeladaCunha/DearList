@@ -1,0 +1,64 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    background-color: #252525;
+    color: #cfcfcf;
+    text-align: center;
+}
+
+.listas {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.informacao{
+
+    text-align: center;
+    font-size: large;
+    font-family: 'Roboto', sans-serif;
+}
+.lista {
+    font-family: 'Roboto', sans-serif;
+}
+.cabecalhos{
+    text-align:justify;
+}
+.imagem{
+    text-align: center;
+    display:inline-flex;
+    height: 200px;
+    width: 400px;
+}
+.img{
+    text-align: center;
+}
+
+.paragrafos{
+    text-align: center;
+    margin-top: 1%;
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    margin-left: 1%;
+  
+}
+
+button{
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 18px;
+    cursor: pointer;
+
+}
+
+
+
+
+
